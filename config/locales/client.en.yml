@@ -1,0 +1,7 @@
+en:
+  js:
+    topic:
+      suggest_create_topic: Consider creating a topic?
+    filters:
+      top:
+        title: "Popular"
